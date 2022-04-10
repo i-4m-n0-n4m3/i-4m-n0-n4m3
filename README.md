@@ -4,11 +4,11 @@
 I am a new Github user
 I will post the scripts here in the Python-Telegram bundle.
 Maybe you will find something useful here
-If you have any questions, you can write to me on telegram</a>
+If you have any questions, you can write to me</a>
  
 
 
-My contact
+My contacts
 <div id="badges">
 <a href="https://t.me/i_4m_n0_n4m3">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
