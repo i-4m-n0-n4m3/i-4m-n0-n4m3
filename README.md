@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://ibb.co/4f1Ls1X"><img src="https://i.ibb.co/pPhTWhM/image.png" alt="image" border="0"></a>
+<img src="https://i.ibb.co/ysFyFxW/image.png" alt="image" border="0" />
 <h2 align="center">Hi there, i 4m n0 n4m3🤜🤛</a> 
 <h3 align="center">
 I am a new Github user
